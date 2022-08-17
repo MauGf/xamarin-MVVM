@@ -5,7 +5,8 @@
              xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
              ios:Page.PrefersStatusBarHidden="True"
              ios:Page.PreferredStatusBarUpdateAnimation="Fade"
-             BackgroundColor="White">
+             BackgroundColor="White"
+             NavigationPage.HasNavigationBar="false">
     <ContentPage.Content>
         <!-- Main layout-->
         <Grid RowDefinitions="Auto,Auto,Auto,Auto,Auto"
