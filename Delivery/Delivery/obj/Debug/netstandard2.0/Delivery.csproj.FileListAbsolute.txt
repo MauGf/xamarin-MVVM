@@ -1,0 +1,16 @@
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\bin\Debug\netstandard2.0\Delivery.deps.json
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\bin\Debug\netstandard2.0\Delivery.dll
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\bin\Debug\netstandard2.0\ref\Delivery.dll
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\bin\Debug\netstandard2.0\Delivery.pdb
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\obj\Debug\netstandard2.0\Delivery.AssemblyInfoInputs.cache
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\obj\Debug\netstandard2.0\Delivery.AssemblyInfo.cs
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\obj\Debug\netstandard2.0\Delivery.csproj.CoreCompileInputs.cache
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\obj\Debug\netstandard2.0\Delivery.dll
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\obj\Debug\netstandard2.0\ref\Delivery.dll
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\obj\Debug\netstandard2.0\Delivery.pdb
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\obj\Debug\netstandard2.0\Delivery.csproj.AssemblyReference.cache
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\Delivery\Delivery\obj\Debug\netstandard2.0\Views\DeliveryPage.xaml.g.cs

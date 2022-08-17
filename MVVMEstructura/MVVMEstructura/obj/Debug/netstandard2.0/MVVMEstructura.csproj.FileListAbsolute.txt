@@ -1,0 +1,16 @@
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\obj\Debug\netstandard2.0\Views\Pagina1.xaml.g.cs
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\obj\Debug\netstandard2.0\MVVMEstructura.AssemblyInfoInputs.cache
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\obj\Debug\netstandard2.0\MVVMEstructura.AssemblyInfo.cs
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\obj\Debug\netstandard2.0\MVVMEstructura.csproj.CoreCompileInputs.cache
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\bin\Debug\netstandard2.0\MVVMEstructura.deps.json
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\bin\Debug\netstandard2.0\MVVMEstructura.dll
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\bin\Debug\netstandard2.0\ref\MVVMEstructura.dll
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\bin\Debug\netstandard2.0\MVVMEstructura.pdb
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\obj\Debug\netstandard2.0\MVVMEstructura.dll
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\obj\Debug\netstandard2.0\ref\MVVMEstructura.dll
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\obj\Debug\netstandard2.0\MVVMEstructura.pdb
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\obj\Debug\netstandard2.0\MVVMEstructura.csproj.AssemblyReference.cache
+D:\Curso Desarrollo Xamarin\xamarin-MVVM\MVVMEstructura\MVVMEstructura\obj\Debug\netstandard2.0\Views\Pagina2.xaml.g.cs
